@@ -3,9 +3,9 @@
 
 ## Requirements
 
-- [GNU Make]()
-- [FFMpeg]()
-- [Exiftool]()
+- [GNU Make](https://www.gnu.org/software/make/)
+- [FFMpeg](https://ffmpeg.org)
+- [Exiftool](https://exiftool.org/install.html)
 
 ## Usage
 To prepare media for editing, run the following command:
