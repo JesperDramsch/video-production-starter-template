@@ -1,0 +1,7 @@
+{
+  "production_name": "Video Production Starter Template",
+  "production_short_description": "Cookiecutter template for creating initial video production projects.",
+  "production_company": "Amazing Amazing Pictures, LLC",
+  "project_slug": "{% now 'local', '%Y-%m-%d' %}_{{ cookiecutter.production_name.lower().replace(' ', '-').replace('_', '-') }}",
+  "editing_tools": "premiere,after-effects"
+}
